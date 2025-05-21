@@ -44,7 +44,7 @@
    npm run build
    npm start
    ```
-   Сервер будет доступен на [http://localhost:4000](http://localhost:4000) (или другой порт, если указан).
+   Сервер будет доступен на [http://localhost:4200](http://localhost:4200) (или другой порт, если указан).
 
 ---
 
